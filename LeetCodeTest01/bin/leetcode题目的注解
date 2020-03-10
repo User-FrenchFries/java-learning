@@ -1,0 +1,10 @@
+demo01中的  
+          ValidPalindrome需要看看
+demo02中的
+		  MinPathSum    两者是关于路径的问题，暂时还不会，需要看看
+		  Exist
+		  StrToInt      这个里面的方法值得思考，不要将问题具象化一次性解决，尝试将问题分解，一步步看
+demo04中的
+		  OrangesRotting   理解思想，优化算法
+		  PoorPigs       //很优秀的题，自己并没有想出来，加油学习	  
+		  FindContinuousSequence    滑动窗口解法，注意积累
